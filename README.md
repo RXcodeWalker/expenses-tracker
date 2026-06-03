@@ -1,4 +1,4 @@
-# Smart Expense Tracker
+# Expense Tracker
 
 A command-line expense tracking application built in Python that enables users to manage personal finances efficiently. The tracker persists data in Excel spreadsheets, providing real-time insights into spending patterns through category-based aggregation and visual analytics.
 
