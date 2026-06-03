@@ -4,7 +4,7 @@ A command-line expense tracking application built in Python that enables users t
 
 ## Why I Built This
 
-I realized I had no idea where my money was going. Every month felt the same—spending without awareness. I wanted to build something practical that would actually help me see patterns, not just automate the problem. This project taught me that sometimes the simplest tools are the most useful, and that good software solves real problems you actually have.
+I wanted to create an app that could track my expenses so that I could become more responsible with my spending habits. This project actually helps me see patterns. Plus, it was an interesting project to build that taught me several new skills, most notably file handling and digital representation (matplotlib).
 
 ## Features
 
